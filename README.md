@@ -28,8 +28,8 @@ with open('text1','r') as file1:
             file2.write(i)
 ~~~
 ### OUTPUT:
-![output](https://github.com/charansai0/copy-file/blob/main/Screenshot%20(232).png?raw=true)
-![output](https://github.com/charansai0/copy-file/blob/main/Screenshot%20(233).png?raw=true)
-![output](https://github.com/charansai0/copy-file/blob/main/Screenshot%20(234).png?raw=true)
+![output](https://github.com/charansai0/copy-file/blob/main/Screenshot%20(242).png?raw=true)
+![output](https://github.com/charansai0/copy-file/blob/main/Screenshot%20(241).png?raw=true)
+![output](https://github.com/charansai0/copy-file/blob/main/Screenshot%20(243).png?raw=true)
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
